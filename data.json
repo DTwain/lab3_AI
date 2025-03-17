@@ -1,0 +1,75 @@
+[
+  {
+    "image_url": "https://raw.githubusercontent.com/DTwain/images/main/bucharest-hand-lettering-phrase-poster-design-vector-50432308.jpg",
+    "ground_truth": [
+      "Bucharest",
+      "VectorStock",
+      "VectorStock.com/50432308"
+    ],
+    "ground_truth_boxes": []
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/DTwain/images/main/download(1).jpg",
+    "ground_truth": [
+      "Because",
+      "be doing"
+    ],
+    "ground_truth_boxes": []
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/DTwain/images/main/download.jpg",
+    "ground_truth": [
+      "Thank you!"
+    ],
+    "ground_truth_boxes": []
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/DTwain/images/main/images.jpg",
+    "ground_truth": [
+      "Name:Roman",
+      "Simple:Roman",
+      "Cursive:Roman",
+      "SparpEdge:Roman",
+      "TypeWriter:Roman",
+      "Rate: ?/10"
+    ],
+    "ground_truth_boxes": []
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/DTwain/images/main/images.png",
+    "ground_truth": [
+      "Convert Handwritten Notes",
+      "Into Google Docs"
+    ],
+    "ground_truth_boxes": []
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/DTwain/images/main/made-in-romania-handwritten-label-in-romanian-language-calligraphy-hand-lettering-quality-mark-vector-icon-perfect-for-logo-design-tags-badges-s-2FKMDKP.jpg",
+    "ground_truth": [
+      "FABRICAT ÎN",
+      "României",
+      "alamy",
+      "Image ID: 2FKMDKP",
+      "www.alamy.com"
+    ],
+    "ground_truth_boxes": []
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/DTwain/images/main/test1.png",
+    "ground_truth": [
+      "Google Cloud",
+      "Platform"
+    ],
+    "ground_truth_boxes": []
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/DTwain/images/main/test2.jpeg",
+    "ground_truth": [
+      "Succes în rezolvarea",
+      "tEMELOR la",
+      "LABORAtoarele de",
+      "Inteligență Artificială!"
+    ],
+    "ground_truth_boxes": []
+  }
+]

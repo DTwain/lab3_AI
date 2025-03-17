@@ -1,0 +1,12 @@
+Azure Computer Vision labDTwainAI
+
+Key: 41pbynd8TRw0yhAqZT7G051dSSJuk1iG1Gzru7kpHqlBdUE1av9OJQQJ99BCAC5RqLJXJ3w3AAAFACOGz7Nq
+Endpont: https://dtwainlab3ai.cognitiveservices.azure.com/
+
+
+$env:VISION_KEY = "41pbynd8TRw0yhAqZT7G051dSSJuk1iG1Gzru7kpHqlBdUE1av9OJQQJ99BCAC5RqLJXJ3w3AAAFACOGz7Nq"
+$env:VISION_ENDPOINT = "https://dtwainlab3ai.cognitiveservices.azure.com/"
+
+python.exe -m venv my_env
+activate
+pip install -r requirments.txt
