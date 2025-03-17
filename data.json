@@ -2,11 +2,23 @@
   {
     "image_url": "https://raw.githubusercontent.com/DTwain/images/main/bucharest-hand-lettering-phrase-poster-design-vector-50432308.jpg",
     "ground_truth": [
+      "VectorStock",
+      "VectorStock",
       "Bucharest",
+      "VectorStock",
+      "VectorStock",
       "VectorStock",
       "VectorStock.com/50432308"
     ],
-    "ground_truth_boxes": []
+    "ground_truth_boxes": [
+      [271.0, 23.0, 381.0, 134.0, 363.0, 151.0, 254.0, 40.0],
+      [639.0, 21.0, 748.0, 131.0, 728.0, 150.0, 620.0, 41.0],
+      [8, 17, 996, 17, 8, 535, 996, 535],
+      [633.0, 385.0, 745.0, 497.0, 727.0, 515.0, 616.0, 402.0],
+      [267.0, 390.0, 381.0, 498.0, 363.0, 516.0, 253.0, 410.0],
+      [26.0, 561.0, 221.0, 561.0, 221.0, 591.0, 26.0, 591.0],
+      [665.0, 568.0, 972.0, 567.0, 972.0, 591.0, 665.0, 592.0]
+    ]
   },
   {
     "image_url": "https://raw.githubusercontent.com/DTwain/images/main/download(1).jpg",
@@ -14,14 +26,19 @@
       "Because",
       "be doing"
     ],
-    "ground_truth_boxes": []
+    "ground_truth_boxes": [
+      [16, 16, 220, 16, 220.0, 80.0, 16, 80],
+      [25, 108, 235, 108, 236, 198, 25, 196]
+    ]
   },
   {
     "image_url": "https://raw.githubusercontent.com/DTwain/images/main/download.jpg",
     "ground_truth": [
       "Thank you!"
     ],
-    "ground_truth_boxes": []
+    "ground_truth_boxes": [
+      [16.0, 85.0, 230.0, 24.0, 242.0, 69.0, 25.0, 128.0]
+    ]
   },
   {
     "image_url": "https://raw.githubusercontent.com/DTwain/images/main/images.jpg",
@@ -33,7 +50,15 @@
       "TypeWriter:Roman",
       "Rate: ?/10"
     ],
-    "ground_truth_boxes": []
+    "ground_truth_boxes": [
+      [2.0, 76.0, 115.0, 77.0, 115.0, 95.0, 2.0, 93.0],
+      [0.0, 99.0, 117.0, 101.0, 116.0, 119.0, 0.0, 117.0],
+      [0.0, 122.0, 122.0, 124.0, 122.0, 144.0, 0.0, 141.0],
+      [0.0, 143.0, 120.0, 143.0, 120.0, 165.0, 0.0, 165.0],
+      [2.0, 167.0, 137.0, 165.0, 137.0, 188.0, 2.0, 190.0],
+      [2.0, 191.0, 154.0, 190.0, 154.0, 210.0, 2.0, 211.0],
+      [2.0, 213.0, 106.0, 209.0, 102.0, 229.0, 2.0, 230.0]
+    ]
   },
   {
     "image_url": "https://raw.githubusercontent.com/DTwain/images/main/images.png",
@@ -41,7 +66,10 @@
       "Convert Handwritten Notes",
       "Into Google Docs"
     ],
-    "ground_truth_boxes": []
+    "ground_truth_boxes": [
+      [24.0, 39.0, 278.0, 39.0, 278.0, 67.0, 24.0, 67.0],
+      [70.0, 75.0, 233.0, 76.0, 70, 112, 233, 112]
+    ]
   },
   {
     "image_url": "https://raw.githubusercontent.com/DTwain/images/main/made-in-romania-handwritten-label-in-romanian-language-calligraphy-hand-lettering-quality-mark-vector-icon-perfect-for-logo-design-tags-badges-s-2FKMDKP.jpg",
@@ -52,7 +80,13 @@
       "Image ID: 2FKMDKP",
       "www.alamy.com"
     ],
-    "ground_truth_boxes": []
+    "ground_truth_boxes": [
+      [116, 310, 1195, 306, 1185.0, 659.0, 107.0, 672.0],
+      [593.0, 325.0, 928.0, 321.0, 929.0, 370.0, 593.0, 373.0],
+      [47.0, 926.0, 153.0, 932.0, 151.0, 982.0, 45.0, 976.0],
+      [1114.0, 933.0, 1251.0, 933.0, 1252.0, 950.0, 1114.0, 950.0],
+      [1113.0, 957.0, 1254.0, 957.0, 1254.0, 976.0, 1113.0, 976.0]
+    ]
   },
   {
     "image_url": "https://raw.githubusercontent.com/DTwain/images/main/test1.png",
@@ -60,7 +94,10 @@
       "Google Cloud",
       "Platform"
     ],
-    "ground_truth_boxes": []
+    "ground_truth_boxes": [
+      [175.0, 41.0, 415.0, 41.0, 415.0, 103.0, 175.0, 103.0],
+      [235.0, 112.0, 349.0, 110.0, 350.0, 149.0, 235.0, 151.0]
+    ]
   },
   {
     "image_url": "https://raw.githubusercontent.com/DTwain/images/main/test2.jpeg",
@@ -70,6 +107,11 @@
       "LABORAtoarele de",
       "Inteligență Artificială!"
     ],
-    "ground_truth_boxes": []
+    "ground_truth_boxes": [
+      [86.0, 314.0, 1335.0, 287.0, 1336.0, 443.0, 86.0, 478.0],
+      [140.0, 590.0, 1045.0, 587.0, 1046.0, 723.0, 140.0, 727.0],
+      [81.0, 915.0, 1007.0, 926.0, 1004.0, 1039.0, 78.0, 1014.0],
+      [108.0, 1129.0, 1450.0, 1151.0, 1450.0, 1400.0, 108.0, 1400.0]
+    ]
   }
 ]
